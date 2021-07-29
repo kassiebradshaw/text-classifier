@@ -2,7 +2,11 @@
 
 *Authors*: Kassie Bradshaw, Glenn Clark, Garfield Grant
 
-[Link to PR]()
+[Link to PR](https://github.com/kassiebradshaw/text-classifier/pull/1)
+
+[Link to Google Colab THAT WORKS](https://colab.research.google.com/drive/1WUiwDxsUgzCQQv-EkTRcU58RpiVaHwGL?usp=sharing)
+
+---
 
 ## Overview
 
@@ -12,6 +16,8 @@ For this lab you’ll be converting an excellent tutorial from a couple years ag
 
 **NOTE**: You don’t have to understand all of the code in the tutorial yet. Get it working first, in the process it will become more familiar.
 
+---
+
 ## Feature Tasks and Requirements
 
 * Your task is to create a baseline classification model by following (and modifying when needed) the Practical Text Classification With Python and Keras tutorial into a running Jupyter Notebook.
@@ -19,6 +25,8 @@ For this lab you’ll be converting an excellent tutorial from a couple years ag
 
 * A big part of this lab is building resilience when faced with an incomplete solution.
 * Because most of the time that’s what internet is going to give you.
+
+---
 
 ## Implementation Notes
 
@@ -28,10 +36,14 @@ For this lab you’ll be converting an excellent tutorial from a couple years ag
 * Some example code may cause errors. Troubleshoot the errors and see if you can fix them.
   * **Hint** - you can
 
+---
+
 ## Setup
 
 * Create a text-classifier repository on GitHub
 * Name notebook text_classifier.ipynb
+
+---
 
 ## Configuration
 
@@ -42,10 +54,14 @@ For this lab you’ll be converting an excellent tutorial from a couple years ag
 > $ poetry init -n
 ```
 
+---
+
 ## Testing
 
 * No automated testing requirements for this lab.
   * Refer to Lab Submission Instructions for detailed instructions.
+
+---
 
 ## Stretch Goals
 
