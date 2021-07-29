@@ -2,6 +2,12 @@
 
 *Authors*: Kassie Bradshaw, Glenn Clark, Garfield Grant
 
+[Link to PR](https://github.com/kassiebradshaw/text-classifier/pull/1)
+
+[Link to Google Colab THAT WORKS](https://colab.research.google.com/drive/1WUiwDxsUgzCQQv-EkTRcU58RpiVaHwGL?usp=sharing)
+
+---
+
 ## Overview
 
 A key developer skill is the ability to use internet resources effectively. Especially when learning a new topic.
@@ -9,6 +15,8 @@ A key developer skill is the ability to use internet resources effectively. Espe
 For this lab you’ll be converting an excellent tutorial from a couple years ago. Does it still work? Let’s find out!
 
 **NOTE**: You don’t have to understand all of the code in the tutorial yet. Get it working first, in the process it will become more familiar.
+
+---
 
 ## Feature Tasks and Requirements
 
@@ -18,6 +26,8 @@ For this lab you’ll be converting an excellent tutorial from a couple years ag
 * A big part of this lab is building resilience when faced with an incomplete solution.
 * Because most of the time that’s what internet is going to give you.
 
+---
+
 ## Implementation Notes
 
 * You are only required to build the Baseline Model.
@@ -26,10 +36,14 @@ For this lab you’ll be converting an excellent tutorial from a couple years ag
 * Some example code may cause errors. Troubleshoot the errors and see if you can fix them.
   * **Hint** - you can
 
+---
+
 ## Setup
 
 * Create a text-classifier repository on GitHub
 * Name notebook text_classifier.ipynb
+
+---
 
 ## Configuration
 
@@ -40,10 +54,14 @@ For this lab you’ll be converting an excellent tutorial from a couple years ag
 > $ poetry init -n
 ```
 
+---
+
 ## Testing
 
 * No automated testing requirements for this lab.
   * Refer to Lab Submission Instructions for detailed instructions.
+
+---
 
 ## Stretch Goals
 
